@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appredux",
+    "slug": "appredux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appredux"
+}
